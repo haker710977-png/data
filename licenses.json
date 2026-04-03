@@ -1,8 +1,14 @@
 {
-  "DEMON-9F3E-7A2C-5B8D": {
-    "device_id": "",
-    "owner": "عميل جديد",
-    "expiry": "2026-01-01",
-    "status": "active"
+  "licenses": {
+    "DEMON-9F3E-7A2C-5B8D": {
+      "device_id": "",
+      "owner": "Test User",
+      "expiry": "2025-12-31",
+      "status": "active"
+    }
+  },
+  "blacklist": {
+    "devices": [],
+    "users": []
   }
 }
