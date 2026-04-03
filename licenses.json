@@ -3,12 +3,8 @@
     "DEMON-9F3E-7A2C-5B8D": {
       "device_id": "",
       "owner": "Test User",
-      "expiry": "2026-12-31",
+      "expiry": "2027-12-31",
       "status": "active"
     }
-  },
-  "blacklist": {
-    "devices": [],
-    "users": []
   }
 }
